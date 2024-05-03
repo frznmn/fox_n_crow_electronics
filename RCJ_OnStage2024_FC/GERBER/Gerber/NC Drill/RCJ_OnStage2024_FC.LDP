@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\AD_files\projects\fox_n_crow_electronics\RCJ_OnStage2024_FC\RCJ_OnStage2024_FC.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rcj_onstage2024_fc-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rcj_onstage2024_fc-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=rcj_onstage2024_fc-rectholes.txt|DrillLayers=gtl,g1,g2,gbl
